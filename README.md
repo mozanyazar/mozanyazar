@@ -1,7 +1,7 @@
-# Hi there, I'm Ozan - 👋 
+# Hi there, I'm Ozan👋 
 
 
-## I'm studying Airframe & Powerplant maintenance// self-taught developer!
+## I'm studying Airframe & Powerplant maintenance// amateur developer (for now)
 
 
 - 🌱 I’m currently learning Javascript 🤣
