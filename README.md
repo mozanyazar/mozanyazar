@@ -4,7 +4,7 @@
 ## I'm studying Airframe & Powerplant maintenance// amateur developer (for now)
 
 
-- 🌱 I’m currently learning Javascript 🤣
+- 🌱 I’m currently learning React 🤣
 - 🥅 2022 Goals: Learn React - Nodejs - MongoDB - React Native :))
 - ⚡ I love to play guitar and learn new things...
 
