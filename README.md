@@ -1,13 +1,6 @@
 # Hi there, I'm Ozan👋 
 
-
-
-
-
-- 🌱 I’m currently learning React 🤣
-- 🥅 2022 Goals: Learn React - Nodejs - MongoDB - React Native :))
-- ⚡ I love to play guitar and learn new things...
-
+- I am a front end developer.  I am currently working for Educational Networks Inc.
 
 ### Languages and Tools:
 
@@ -17,7 +10,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:12px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img width="26px" src='https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb' />
-
-<p>I’m currently learning</p> <img width='100px' src='https://reactjs.org/logo-og.png' />
+<img width='50px' src='https://reactjs.org/logo-og.png' />
 
 
