@@ -12,5 +12,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwind,bootstrap,figma,photoshop,javascript,react,next,mongodb,express&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwind,bootstrap,figma,photoshop,javascript,typescript,react,next,mongodb,express&theme=light)](https://skills.thijs.gg)
 
