@@ -15,6 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <br><br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mozanyazar&show_icons=true&theme=tokyonight) <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozanyazar&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
