@@ -14,8 +14,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwind,bootstrap,figma,photoshop,javascript,typescript,react,next,mongodb,express&theme=light)](https://skills.thijs.gg) 
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mozanyazar&show_icons=true&theme=tokyonight) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozanyazar&theme=tokyonight)
