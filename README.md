@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 💬 Ask me about **React/Nextjs/Expressjs**
 
