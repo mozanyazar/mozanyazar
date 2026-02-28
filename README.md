@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-
+<img src="https://img.shields.io/github/stars/mozanyazar?style=for-the-badge" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mozanyazar&theme=tokyonight" />
